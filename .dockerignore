@@ -1,0 +1,6 @@
+# Ignorar o README
+readme.md
+
+# Ignorar pastas e arquivos do Git
+.git
+
